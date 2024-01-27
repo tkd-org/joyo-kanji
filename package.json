@@ -1,0 +1,14 @@
+{
+  "name": "joyo-kanji-counts",
+  "version": "1.0.1-20240127.1",
+  "description": "Japanese joyokanji database",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "tkd-org",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
